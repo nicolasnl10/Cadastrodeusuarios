@@ -1,0 +1,3 @@
+(7, '78945114780', 'Nicolas', 'nicolas@gmail.com')
+(8, '78498871514', 'Jorge', 'jorge@hotmail.com')
+(9, '74944477714', 'Thais', 'thais@thais.')
